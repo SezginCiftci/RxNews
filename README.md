@@ -2,4 +2,4 @@
 
 <img src="https://github.com/SezginCiftci/RxNews/blob/main/RxNews.gif" width="250"> 
 
-#### * MVC design pattern <br/> * RxSwift <br/> * RxCocoa <br/> * Kingfisher <br/> * JSON-API Call
+#### * MVC design pattern <br/> * RxSwift <br/> * RxCocoa <br/> * Kingfisher <br/> * WebKit <br/> * JSON-API Call
